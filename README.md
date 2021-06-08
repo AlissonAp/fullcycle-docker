@@ -5,5 +5,5 @@ Repositório referente ao módulo de docker realizado pela Code Education no cur
 - <b>Lessons</b> - Lições aprendidas durante o curso </br>
 - <b>Challenges</b> - Entrega dos desafios solicitados ao final do módulo
   - Go Hello World
-  *** docker run alissonapdev/codeeducation
+  <p>docker run alissonapdev/codeeducation </p>
    
