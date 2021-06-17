@@ -1,0 +1,1 @@
+INSERT INTO nodedb.people (Name) VALUES ('Alisson A'), ('Fulano de tal'), ('Fernanda'), ('Robson'), ('Lucas'), ('Nadine'), ('Maria'), ('Paula'), ('Joãozinho');
